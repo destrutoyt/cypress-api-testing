@@ -1,0 +1,39 @@
+{
+    "articles": [
+        {
+            "slug": "Test-2-28751",
+            "title": "Test 2",
+            "description": "test 2",
+            "body": "test 2",
+            "tagList": [],
+            "createdAt": "2025-06-22T01:23:36.391Z",
+            "updatedAt": "2025-06-22T01:23:36.391Z",
+            "favorited": false,
+            "favoritesCount": 1,
+            "author": {
+                "username": "destro",
+                "bio": null,
+                "image": "https://conduit-api.bondaracademy.com/images/smiley-cyrus.jpeg",
+                "following": false
+            }
+        },
+        {
+            "slug": "Test-1-28751",
+            "title": "Test 1",
+            "description": "test 1",
+            "body": "test 1",
+            "tagList": [],
+            "createdAt": "2025-06-22T01:23:29.353Z",
+            "updatedAt": "2025-06-22T01:23:29.353Z",
+            "favorited": false,
+            "favoritesCount": 5,
+            "author": {
+                "username": "destro",
+                "bio": null,
+                "image": "https://conduit-api.bondaracademy.com/images/smiley-cyrus.jpeg",
+                "following": false
+            }
+        }
+    ],
+    "articlesCount": 2
+}
